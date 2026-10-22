@@ -6,7 +6,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 
-URL = "http://localhost:5173"
+URL = "https://petid-chain-m4kj.vercel.app/"
 TEST_WALLET = "0x1234567890123456789012345678901234567890"
 
 

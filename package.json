@@ -31,5 +31,18 @@
     "eslint-plugin-react-refresh": "^0.5.6",
     "globals": "^17.12.0",
     "vite": "^8.3.0"
-  }
+  },
+  "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/016Naphatsorn/selenium-tests-PetID-chain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/016Naphatsorn/selenium-tests-PetID-chain/issues"
+  },
+  "homepage": "https://github.com/016Naphatsorn/selenium-tests-PetID-chain#readme"
 }
